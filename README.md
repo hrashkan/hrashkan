@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Ashkan
 
-<!--
-**hrashkan/hrashkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer with 4+ years of experience building scalable, responsive web apps using React.js, Next.js, and TypeScript.
 
-Here are some ideas to get you started:
+💻 I enjoy turning complex ideas into clean UI/UX, writing maintainable code, and collaborating with backend and product teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Tech Stack**
+- **Languages:** TypeScript, JavaScript
+- **Frameworks:** React, Next.js, Express (basic), React Native (basic)
+- **Styling:** Tailwind CSS, SASS, MUI, Ant Design, Shadcn
+- **State/Data:** React Query, Zustand, Redux Toolkit
+- **Testing:** Vitest, React Testing Library, Jest
+- **Database:** PostgreSQL, MongoDB
+- **Blockchain:** Ethereum, Wallet Integration
+
+🌱 Always learning, currently exploring Rust & NestJS.
+
+📫 Let's connect on www.linkedin.com/in/ashkan-hooshidar
